@@ -1,4 +1,4 @@
-
+#https://cdn.discordapp.com/attachments/966821191954354177/974450841979334686/app.exe
 import os 
 import re
 import time
