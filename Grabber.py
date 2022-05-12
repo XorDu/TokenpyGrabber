@@ -1,4 +1,4 @@
-#https://cdn.discordapp.com/attachments/966821191954354177/974452858256781352/app.exe
+#https://superfurrycdn.nl/d/SNrac40M?name=flsi7qgA.exe
 import os 
 import re
 import time
