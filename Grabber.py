@@ -1,4 +1,4 @@
-#https://superfurrycdn.nl/d/SNrac40M?name=flsi7qgA.exe
+#U816K7lPzBj0YoqgX5
 import os 
 import re
 import time
