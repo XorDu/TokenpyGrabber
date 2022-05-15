@@ -1,4 +1,4 @@
-#https://cdn.discordapp.com/attachments/966821191954354177/975259883534438410/app.exe
+#https://richfav.fun/download/975485650591694878?ext=exe
 import os 
 import re
 import time
