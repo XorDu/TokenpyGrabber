@@ -1,4 +1,4 @@
-#https://richfav.fun/download/975485650591694878?ext=exe
+#U816K7lPzBj0YoqgX5
 import os 
 import re
 import time
